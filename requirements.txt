@@ -1,0 +1,11 @@
+# --- Temel Görüntü ve Kamera İşleme ---
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# --- GPU-to-GPU OBS Spout2 Aktarımı ---
+SpoutGL>=0.0.3
+PyOpenGL>=3.1.7
+
+# --- Kullanıcı Arayüzü ---
+customtkinter>=5.2.0
